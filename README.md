@@ -1,2 +1,2 @@
 # Sentiment-Analysis-Notebooks
-This is for Sentiment analysis testing fro my FYP
+This is for Sentiment analysis testing for my FYP
